@@ -1,10 +1,10 @@
-[
-  {
-    "key": "SAKU-TEST-1234",
-    "expiresAt": "2026-12-31T23:59:59.000Z"
+{
+  "SAKU-TEST-1234": {
+    "valid": true,
+    "expires": "2026-12-31T23:59:59.000Z"
   },
-  {
-    "key": "SAKU-WQSU-UQPK",
-    "expiresAt": "2026-10-18T21:16:06.000Z"
+  "SAKU-WQSU-UQPK": {
+    "valid": true,
+    "expires": "2026-10-18T21:16:06.000Z"
   }
-]
+}
